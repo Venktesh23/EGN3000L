@@ -1,3 +1,2 @@
 # EGN3000L
-
-#Code for Object Avoiding Robot
+This is the code for an object avoiding robot
